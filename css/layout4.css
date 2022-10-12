@@ -143,3 +143,13 @@ header{
     text-align: left ;
     
 }
+.audio{
+    background-color: #4c9ce7;
+    width: 94%;
+    margin: 2%;
+    border-radius: 10px;
+    text-align: center;
+    padding: 1%;
+    box-shadow: 10px 10px 10px #15407598;
+    color:#ffffff;
+}
