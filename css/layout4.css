@@ -153,3 +153,7 @@ header{
     box-shadow: 10px 10px 10px #15407598;
     color:#ffffff;
 }
+.principal{
+    display: flex;
+    flex-direction: column;
+}
