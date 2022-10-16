@@ -157,3 +157,7 @@ header{
     display: flex;
     flex-direction: row;
 }
+.video01{
+    width: 99%;
+    display: inline;
+}
