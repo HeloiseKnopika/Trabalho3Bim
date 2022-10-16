@@ -117,7 +117,7 @@ padding-top: 2%;
 .conteudo{
     background-color: #15407598; 
 }
-.conteudo {
+.conteudo{
     padding: 2%;
     color: #ffffff; 
     background-color:#4c9ce7;
@@ -127,11 +127,9 @@ padding-top: 2%;
     width: 20%;
     text-align: center;
     position: relative;
-    left: 10%;
-    float: left;
+    left: 37%;
+    
     display: flex;
+
 }
-.tabel{
-    display: flex;
-    flex-direction: row;
-}
+
